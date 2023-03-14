@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br><br><br>
+---
 <!--
 **Jin-bright/Jin-bright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,21 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-■ J's profile <br>
-<a href="https://jin-bright.github.io/" target="_blank">
-  <p>here</p>
-</a>
-<br>
-<br>
-<br>
-
-■ J's workspace <br>
+</br>
+### ■ J's profile <br>
+[here](https://jin-bright.github.io/, "j's profile") </br>
+---
+</br>
+### ■ J's workspace </br>
 <a href="https://www.notion.so/brightjin/Let-s-bright-J-5f35c0622be84a44855fcc3a5090deaa?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=NOTION&logoColor=000000"/>
 </a>
-
-■ J's project <br><br>
+---
+</br>
+### ■ J's project </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-bright&show_icons=true&theme=radical)
 
