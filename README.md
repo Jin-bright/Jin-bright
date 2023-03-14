@@ -15,19 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-■ J's profile 
+■ J's profile <br>
 <a href="https://jin-bright.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=NOTION&logoColor=000000"/>
+  <p>here</p>
 </a>
 <br>
 <br>
 <br>
 
-■ J's workspace 
+■ J's workspace <br>
 <a href="https://www.notion.so/brightjin/Let-s-bright-J-5f35c0622be84a44855fcc3a5090deaa?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=NOTION&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=NOTION&logoColor=000000"/>
 </a>
 
-■ J's project
+■ J's project <br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin-bright&show_icons=true&theme=radical)
 
 
