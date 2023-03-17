@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### ■ J's profile
-[here](https://jin-bright.github.io, "j's profile")
+[here](https://jin-bright.github.io)
 ---
      
 ### ■ J's workspace
