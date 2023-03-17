@@ -1,4 +1,6 @@
 ### Hi there 👋   
+I'm learning programming ! 
+
       
 ---
 <!--
@@ -16,21 +18,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 😘 J's profile
+### ◾ J's profile
+This is my first pure html, css based project :)
 #### [here](https://jin-bright.github.io)
 
 
-
+*** 
 
      
-### 🗂️ J's workspace
+### ◾ J's workspace
 <a href="https://www.notion.so/brightjin/Let-s-bright-J-5f35c0622be84a44855fcc3a5090deaa?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=NOTION&logoColor=000000"/></a>        
   
+*** 
 
 
-
- ### ✍️ J'Tech Stack  
+ ### ◾ J'Tech Stack  
+ Techs that I've learned and used at least once
+ 
+ 
      
     
 ---    
