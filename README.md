@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### ◾ J's profile
-This is my first pure html, css based project :)
+This is my first pure html, css ( and a bit of js,,)  based project :)
 #### [here](https://jin-bright.github.io)
 
 
@@ -34,7 +34,8 @@ This is my first pure html, css based project :)
 
 
  ### ◾ J'Tech Stack  
- Techs that I've learned and used at least once
+ ⬇️ Techs that I've learned and used at least once ! 
+       And keep learning :) 
  
  
      
