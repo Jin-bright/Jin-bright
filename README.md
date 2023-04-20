@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### ◾ J's profile
 This is my first pure html, css ( and a bit of js,,)  based project :)
-#### [here]([https://loquacious-otter-d21b51.netlify.app/])
+#### [here](https://loquacious-otter-d21b51.netlify.app/)
 
 
 *** 
